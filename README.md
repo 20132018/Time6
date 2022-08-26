@@ -18,7 +18,7 @@ Aplicação para suporte a vendas de passagens de pacotes de turismo terrestres.
 
 ## Orientador
 
-Will Ricardo Dos Santos Machado  
+  Will Ricardo Dos Santos Machado  
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
