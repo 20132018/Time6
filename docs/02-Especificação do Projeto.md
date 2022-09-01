@@ -88,7 +88,7 @@ O escopo funcional do projeto abrange duas principais partes: requisitos funcion
 | RF-04 | A aplicação deve acompanhar o andamento do serviço solicitado pelo cliente. | Média |
 | RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente | Média |
 | RF-06 | A aplicação deve informar a disponibilidade das viajens . | alta |
-
+| RF-07 | A aplicação deve cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo.| média |
 
 
 
@@ -98,10 +98,8 @@ O escopo funcional do projeto abrange duas principais partes: requisitos funcion
 | ------------- | ------------- | ------------- |
 | RNF-01 | O site deve ser publicado em algum repositório público acessível na internet. | Alta |
 | RNF-02 | O sistema deve ser responsivo para rodar em um dispositivo móvel  | Alta |
-| RNF-03 | Deve processar requisições do usuário em no máximo 3s | Baixa |
-| RNF-04 | Será possível o ajuste de tempo de estudos conforme a necessidade do usuário. | Média |
-| RNF-05 | O site deverá cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo| Média |
-| RNF-06 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Baixa |
+| RNF-03 | O sistema deve processar requisições do usuário em no máximo 3s | Baixa |
+| RNF-04 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Baixa |
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
