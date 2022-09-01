@@ -75,19 +75,25 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
-### Requisitos Funcionais
+## Requisitos do projeto
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+O escopo funcional do projeto abrange duas principais partes: requisitos funcionais, descrevendo  possibilidades  de interação  dos  usuários, e requisitos  não  funcionais, descrevendo os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir, acompanhados por algumas limitações identificadas. Tais informações foram dispostas em tabelas para uma melhor compreensão.
 
-### Requisitos não Funcionais
+### Requisitos funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+
+
+### Requisitos não-funcionais
+
+| ID  | Descrição | Prioridade |
+| ------------- | ------------- | ------------- |
+| RNF-01 | O site deve ser publicado em algum repositório público acessível na internet. | Alta |
+| RNF-02 | O sistema deve ser responsivo para rodar em um dispositivo móvel  | Alta |
+| RNF-03 | Deve processar requisições do usuário em no máximo 3s | Baixa |
+| RNF-04 | Será possível o ajuste de tempo de estudos conforme a necessidade do usuário. | Média |
+| RNF-05 | O site deverá cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo| Média |
+| RNF-06 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Baixa |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
