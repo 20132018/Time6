@@ -80,6 +80,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 O escopo funcional do projeto abrange duas principais partes: requisitos funcionais, descrevendo  possibilidades  de interação  dos  usuários, e requisitos  não  funcionais, descrevendo os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir, acompanhados por algumas limitações identificadas. Tais informações foram dispostas em tabelas para uma melhor compreensão.
 
 ### Requisitos funcionais
+| ID  | Descrição | Prioridade |
+| ------------- | ------------- | ------------- |
+| RF-01 | A aplicação deve apresentar os pacotes de viagens e seus respectivos destinos. | Alta |
+| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viajens e pacotes  | Alta |
+| RF-03 | A aplicação deve efetuar cadastro ,alteração e exclusão de clientes| Baixa |
+| RF-04 | A aplicação deve acompanhar o andamento do serviço solicitado pelo cliente. | Média |
+| RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente | Média |
+| RF-06 | A aplicação deve informar a disponibilidade das viajens . | alta |
+
 
 
 
