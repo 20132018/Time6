@@ -154,6 +154,8 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 
 ![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
+![image](https://user-images.githubusercontent.com/92118593/189328741-9c6a3ae1-13c3-4b7b-bb73-5b61fcbc1c08.png)
+
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
 > - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
