@@ -152,8 +152,6 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
 ![image](https://user-images.githubusercontent.com/92118593/189328741-9c6a3ae1-13c3-4b7b-bb73-5b61fcbc1c08.png)
 
 > **Links Úteis**:
