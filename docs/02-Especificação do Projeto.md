@@ -100,7 +100,8 @@ O escopo funcional do projeto abrange duas principais partes: requisitos funcion
 | RNF-02 | O sistema deve ser responsivo para rodar em um dispositivo móvel  | Alta |
 | RNF-03 | O sistema deve processar requisições do usuário em no máximo 3s | Baixa |
 | RNF-04 | O sistema deve marcar os tópicos de atividades que foram concluídos com checkbox. | Baixa |
-
+| RNF-05 | O sistema deve operacionar em linguagem java script. | Alta |
+| RNF-06 | O sitema deve ser alocado em algum repositório (ex: HostGator) que iremos definir em equipe. | Alta |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
